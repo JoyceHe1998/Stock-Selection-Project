@@ -8,7 +8,7 @@
 #### Label: The profits of the next month
 
 ## Model
-##### K-Means 
+##### K-Means Clustering
 
 ## Model Evaluation
 ##### Annualized Rate of Return
